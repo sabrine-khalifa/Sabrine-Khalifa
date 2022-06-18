@@ -11,11 +11,3 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on on my internship project using ReactJS + NodeJS + MongoDB + Express(MERN Stack)
 - 🌱 I’m currently learning MERN Stack
 
-languages and tools:
-         
-         
--->
-
-
-
-https://www.anne-prost.fr/wp-content/uploads/2020/05/d%C3%A9veloppeur-wordpress-toulouse-seo.gif
