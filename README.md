@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-<img src="[C:\téléchargement.png](https://user-images.githubusercontent.com/92189945/174441687-531d6ef7-3367-46c4-aa9a-5d9c83b61644.png)" />
+<img src="https://user-images.githubusercontent.com/92189945/174441687-531d6ef7-3367-46c4-aa9a-5d9c83b61644.png" />
 
 
 hi, i'm Sabrine Khalifa, a passionate self-taught full stack web developer and a freelance computer engineer from tunisia.
